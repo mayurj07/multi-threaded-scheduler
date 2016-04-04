@@ -19,5 +19,5 @@ This command will the server to create 3 threads which will make a HTTP GET requ
 
 By default:
 
-numberOfThreads = number of CPU cores
-pollIntervalInSeconds = 5
+##### numberOfThreads = number of CPU cores
+##### pollIntervalInSeconds = 5
