@@ -22,5 +22,5 @@ This command will server to create 3 threads which will make a HTTP GET request 
 The parameters **-t** and **-i** are optional, if not specified use default values as:
 
 numberOfThreads = **number of CPU cores**
---
+
 pollIntervalInSeconds = **5**
