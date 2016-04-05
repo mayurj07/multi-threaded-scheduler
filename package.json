@@ -1,7 +1,7 @@
 {
-  "name": "node.js scheduler",
+  "name": "Bombardier",
   "author": "Mayur Jain",
-  "description": "a multi-threaded node.js scheduler to poll get requests at specified interval",
+  "description": "A multi-threaded node.js scheduler to poll get requests at specified interval",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
